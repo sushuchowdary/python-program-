@@ -1,4 +1,3 @@
-a="hello \n"
-b=int(input(" Enter the number:"))
-i=a*b
-print (i)
+a="hello"
+for i in range(0,5):
+	print (a)
